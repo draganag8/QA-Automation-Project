@@ -10,6 +10,6 @@ Test 6: test za uklanjanje item-a iz korpe
 Test 7: test za kupovinu item-a
 Test 8: test za dodavanje random proizvoda u korpu
 Test 9: test za dodavanje najskupljeg proizvoda u korpu
-Za testove je koriscen java/maven projekat.
+Za testove je koriscen java/maven projekat, kao i selenium i testng framework.
 Za login podatke koriscen je configuration.properties fajl u kombinaciji sa Property Managerom
 
