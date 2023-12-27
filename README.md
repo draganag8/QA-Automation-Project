@@ -1,15 +1,15 @@
 # Repository1
 QA-Automation-Project
-Ovaj projekat sadrzi 9 automatskih testova, koji su spakovani u jedan zajednicki test suite.
-Test 1: test za login sa praznim username poljem
-Test 2: test za log in sa praznim password poljem
-Test 3: test sa pogresnim kredencijalima
-Test 4: test za validni login
-Test 5: test za logout
-Test 6: test za uklanjanje item-a iz korpe
-Test 7: test za kupovinu item-a
-Test 8: test za dodavanje random proizvoda u korpu
-Test 9: test za dodavanje najskupljeg proizvoda u korpu
-Za testove je koriscen java/maven projekat, kao i selenium i testng framework.
-Za login podatke koriscen je configuration.properties fajl u kombinaciji sa Property Managerom
+QA-Automation-Project This project contains 9 automated tests, which are packed into one common test suite. 
+Test 1: login test with empty username field 
+Test 2: login test with empty password field 
+Test 3: test with wrong credentials 
+Test 4: valid login test 
+Test 5: logout test 
+Test 6: item removal test from the basket 
+Test 7: test for purchasing an item 
+Test 8: test for adding a random product to the basket 
+Test 9: test for adding the most expensive product to the basket 
+For the tests, a java/maven project was used, as well as selenium and testng framework. 
+The configuration.properties file in combination with the Property Manager was used for login data
 
